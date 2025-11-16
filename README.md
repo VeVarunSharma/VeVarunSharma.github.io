@@ -35,7 +35,7 @@ On being a typical Vancouverite, we love the rain (well, most folks don’t), bu
 
 - Coding
 - DevRel - I love connecting and learning with other developers
-- Making progress/growing - this can be professional or personally - as long I'm making growth progress of any kind that's when I'm most content.
+- Making progress/growing in general. This can be professionaly or personally. As long I'm making progress of any kind that's when I'm most content.
 
 ### What I value from others
 
@@ -51,20 +51,20 @@ On being a typical Vancouverite, we love the rain (well, most folks don’t), bu
 
 ### Things I'm working to improve
 
-- Leadership. I am always learning to improve this muscle and how to best delegate to others as I like to lead from the front due to my servant leadership style.
-- Conflict management. I can feel uncomfortable when conflicts happen. It's important to stay calm and contribute to resolving situations.
+- Leadership. I am always learning to improve this muscle and how to best delegate to others. I've learned how to lean into my servant leadership style to most benefit my team.
+- Conflict management. I can feel uncomfortable when conflicts happen. What I've learned is that the only thing you can control in life is yourself and not others. How you respond (not react) is everything.
 - Boundary setting. I'm working to be more efficient and intentional with my time. I can take on too much and come at the expense of me or the team. This is an improving area however.
 
 ### What makes me uncomfortable
 
 - Overt aggressiveness that's unncessary.
-- Environments that are noisy and/or crowded.
 - Being in a siutation that deviates from my values of integrity
+- Environments that are noisy and/or crowded.
 
 ### What makes me grumpy
 
 - Witnessing injustice and incivilities. When people are not acting in a fair way.
-- When people show disrespect towards me or anyone else.
+- When people are disrespectful towards me or anyone else.
 - Doing work without understanding the why.
 - Lack of order and consistency, especially when I have to get my hands dirty. (e.g. contribute to a codebase that I find hard to understand)
 
@@ -89,7 +89,7 @@ I'm pretty good at masking it to be honest. But I'm generally a calm, collected 
 ### Things I’d love to do in the future
 
 - Potentially do another startup
-- Go back to the Netherlands
+- Work on techno policy for the governement - combining my computer science and political science background.
 - Visit China my accestral homeland.
 
 ### How to communicate with me
@@ -100,8 +100,8 @@ I'm pretty good at masking it to be honest. But I'm generally a calm, collected 
 ### Preferred Communication Method
 
 - Asychronous methods:
-- Chat apps like Slack, Teams, etc.
-- If urgent email or text me.
+  - Chat apps like Slack, Teams, etc.
+  - If urgent email or text me.
 
 ### Working Hours
 
