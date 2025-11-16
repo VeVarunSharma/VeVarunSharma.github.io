@@ -1,9 +1,4 @@
-# Ve Varun Sharma
-
-
-
 ## Personal README
-
 
 The objective of my readme page is to introduce myself and share some information that maybe helpful for us to break the ice, communicate, collaborate and adjust expectations effectively.
 
@@ -19,15 +14,13 @@ My experience spans cloud architecture, full stack development, applied A.I., an
 
 I'm quite active in the dev ecosystem for developers & technical founders in groups such as Microsoft, Google Developer Groups, Google for Startups, Deepmind, Vancouver.dev, the League of Innovators, and other organizations speaking on topics around A.I, Dev Tools, Cloud Infrastructure, and technical entrepreneurship around North America.
 
-After Adauris, I went on to be the Head of Engineering at YGG - Yield Guild Games, the first & largest Web3 crypto Gaming DAO in the world. This experience was a big leadership growth period for me as I learned to maanged a team of 20 and other managers. This was also a great experience in diving deep in the world of web3 but realize where my ture passion was (AI & devs).
+After Adauris, I went on to be the Head of Engineering at YGG - Yield Guild Games, the first & largest Web3 crypto Gaming DAO in the world. This experience was a signifcant period of growth for me leadership wise as I learned to managed a team of 20 and other managers. This was also a great experience in diving deep in the world of web3 but realize where my ture passion was (AI & devs).
 
 Today, I'm at Microsoft as a Solution Engineer on the Cloud & AI team focusing on Dev Tools, working on Github Copilot & Agentic DevOps.
 
 Outside of work I love to spend my time doing physical activities especially outdoors. You can catch me climbing a rock face in Squamish BC, or doing a HIIT workout class. I suppose this makes me a typical Vancouverite!
 
 On being a typical Vancouverite, we love the rain (well, most folks don’t), but as part of my personal and professional ethos, I’m a big believer in learning to dance in the rain - metaphorically speaking. I’m an optimist at heart and it’s probably how I’ve gotten through the 0-1 phase startup pain 🙂. I always try to find the opportunity in any challenge and the best in people.
-
-
 
 ### Random facts
 
@@ -36,8 +29,7 @@ On being a typical Vancouverite, we love the rain (well, most folks don’t), bu
 - I love to rock climb outdoors (my 2 favorite spots are in Squamish BC and The Feathers in Washington state) 💙
 - Favorite video game 🎮 franchieses of all time are Halo, Mass Effect, and Battlefield
 - My Myers Briggs personality type is ENFP (The campaigner) which is "a personality type with the Extraverted, Intuitive, Feeling, and Prospecting traits. These people tend to embrace big ideas and actions.
-" according to 16personalities.com
-
+  " according to 16personalities.com
 
 ### What are my favorite things to work on
 
@@ -55,7 +47,7 @@ On being a typical Vancouverite, we love the rain (well, most folks don’t), bu
 
 - Resourcefulness. I can stretch a budget really far or do a project with minimal resources. Partly why I think I became a founder.
 - Accountability. If I say that I'm going to do something, I will deliver. I hate to lie, to disappoint, and I'm not afraid to be transparent
-- Resilience. Definitely my superpower. I can take a lot of hits and keeping getting back up. 
+- Resilience. Definitely my superpower. I can take a lot of hits and keeping getting back up.
 
 ### Things I'm working to improve
 
@@ -100,7 +92,6 @@ I'm pretty good at masking it to be honest. But I'm generally a calm, collected 
 - Go back to the Netherlands
 - Visit China my accestral homeland.
 
-  
 ### How to communicate with me
 
 - Most optimal way is to provide some jotted down notes in a 1:1 doc before a meet so that I have had some time to prepare thoughts rather than shoot from the hip in a meet.
@@ -114,7 +105,7 @@ I'm pretty good at masking it to be honest. But I'm generally a calm, collected 
 
 ### Working Hours
 
-Split shift style. I am usually operational at my desk between 8:30 am and 10pm everyday. I take a break (usually 1.5 - 2 hours) in between depending on the schedule for the day, usually doing physical activity like the gym. 
+Split shift style. I am usually operational at my desk between 8:30 am and 10pm everyday. I take a break (usually 1.5 - 2 hours) in between depending on the schedule for the day, usually doing physical activity like the gym.
 
 ### What my average week looks like
 
