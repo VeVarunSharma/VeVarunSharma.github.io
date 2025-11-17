@@ -17,7 +17,7 @@ Feel free to read more at my [portfolio site here](https://vesharma.dev).
 
 Outside of work I love to spend my time doing physical activities especially outdoors. You can catch me climbing a rock face in Squamish BC, or doing a HIIT workout class. I suppose this makes me a typical Vancouverite!
 
-On being a typical Vancouverite, we love the rain (well, most folks don’t), but as part of my personal and professional ethos, `I’m a big believer in learning to dance in the rain` - metaphorically speaking. **I’m an optimist at heart ** and it’s probably how I’ve gotten through the 0-1 phase startup pain 🙂. I always try to find the opportunity in any challenge and the best in people.
+On being a typical Vancouverite, we love the rain (well, most folks don’t), but as part of my personal and professional ethos, `I’m a big believer in learning to dance in the rain` - metaphorically speaking. **I’m an optimist at heart** and it’s probably how I’ve gotten through the 0-1 phase startup pain 🙂. I always try to find the opportunity in any challenge and the best in people.
 
 ### Random facts
 
@@ -74,7 +74,7 @@ I'm pretty good at masking it to be honest. But I'm generally a calm, collected 
 ### What have my past managers done that I like
 
 - _Defend the interests of the team._
--_ Congratulate successes and efforts,_ and provide honest feedback to help team-mates improve.
+- _Congratulate successes and efforts,_ and provide honest feedback to help team-mates improve.
 - Take the time to share useful tips and provide **coaching** when appropriate.
 - _Not be afraid to roll up their sleeves_ and help out when times are tough.
 
@@ -104,8 +104,7 @@ I'm pretty good at masking it to be honest. But I'm generally a calm, collected 
 
 ### Working Hours
 
-Split shift style. I am usually operational at my desk between 8:30 am and 10 pm on weekdays, and 12 - 6 on weekends. On week days, I take a break (usually 1.5 - 2 hours) in between depending on the schedule for the day, usually** doing physical activity like the gym - this physical activity is very important for me especially if I'm doing long hours. As I always say, it's a marathon not a sprint!
-**
+Split shift style. I am usually operational at my desk between 8:30 am and 10 pm on weekdays, and 12 - 6 on weekends. On week days, I take a break (usually 1.5 - 2 hours) in between depending on the schedule for the day, usually **doing physical activity like the gym - this physical activity is very important for me especially if I'm doing long hours. As I always say, it's a marathon not a sprint!**
 
 ### What my average week looks like
 
