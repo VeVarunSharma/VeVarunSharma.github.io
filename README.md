@@ -8,15 +8,12 @@ It will probably be useful mostly for my colleagues and collaborators (current a
 
 ### Quick Bio
 
-My career in tech began as the co-founder & CTO of Adauris which I done for about 4.5 years and was later acquired by a US company.
+Hey folks, I’m Ve Sharma! I’m currently a Solution Engineer focusing on AI powered Dev Tools (Github Copilot) & Agentic DevOps at Microsoft based out of Vancouver, BC.
 
-My experience spans cloud architecture, full stack development, applied A.I., and leading teams.
+Effectively, I’ll be helping with AI dev tool adoption - this is something I’ve done with devs at my last engineering org and the devRel work I do outside of my main wheelhouse. I come from a series of startup stints of various sizes as both founder and a technical exec. Having done pseudo DevRel with Google as a previous builder, I really enjoy this specific type of role focused on dev Tools.
 
-I'm quite active in the dev ecosystem for developers & technical founders in groups such as Microsoft, Google Developer Groups, Google for Startups, Deepmind, Vancouver.dev, the League of Innovators, and other organizations speaking on topics around A.I, Dev Tools, Cloud Infrastructure, and technical entrepreneurship around North America.
+Feel free to read more at my [portfolio site here](https://vesharma.dev).
 
-After Adauris, I went on to be the Head of Engineering at YGG - Yield Guild Games, the first & largest Web3 crypto Gaming DAO in the world. This experience was a signifcant period of growth for me leadership wise as I learned to managed a team of 20 and other managers. This was also a great experience in diving deep in the world of web3 but realize where my ture passion was (AI & devs).
-
-Today, I'm at Microsoft as a Solution Engineer on the Cloud & AI team focusing on Dev Tools, working on Github Copilot & Agentic DevOps.
 
 Outside of work I love to spend my time doing physical activities especially outdoors. You can catch me climbing a rock face in Squamish BC, or doing a HIIT workout class. I suppose this makes me a typical Vancouverite!
 
@@ -39,9 +36,10 @@ On being a typical Vancouverite, we love the rain (well, most folks don’t), bu
 
 ### What I value from others
 
+- Psychological safety. This is the bed rock for any high performing and creates an inclusive, safe space for all. The best work I've seen comes from this bedrock.
 - Growth mindset. Nobody's ever perfect. The important thing to accept it and don't overlook opportunities to improve.
 - Integrity. Trust is everything. If the underlying assumption is X person has integrity, it makes everything else easier for both parties.
-- Asynchronous work. I have generally work remotely, so I really appreciate it when my team-mates keep a written trace of notes and decisions that may have been taken in my absence.
+- Asynchronous work & traceability. I have generally been on remote teams, so I really appreciate it when my team-mates keep a written trace of notes and decisions that may have been taken in my absence.
 
 ### What I think are my strengths
 
@@ -53,7 +51,7 @@ On being a typical Vancouverite, we love the rain (well, most folks don’t), bu
 
 - Leadership. I am always learning to improve this muscle and how to best delegate to others. I've learned how to lean into my servant leadership style to most benefit my team.
 - Conflict management. I can feel uncomfortable when conflicts happen. What I've learned is that the only thing you can control in life is yourself and not others. How you respond (not react) is everything.
-- Boundary setting. I'm working to be more efficient and intentional with my time. I can take on too much and come at the expense of me or the team. This is an improving area however.
+- Boundary setting. I'm working to be more efficient and intentional with my time. I can take on too much and come at the expense of me or the team (as a manager). This is an improving area however and have learned how to lean more on my tech leads or seniors more.
 
 ### What makes me uncomfortable
 
@@ -105,12 +103,10 @@ I'm pretty good at masking it to be honest. But I'm generally a calm, collected 
 
 ### Working Hours
 
-Split shift style. I am usually operational at my desk between 8:30 am and 10pm everyday. I take a break (usually 1.5 - 2 hours) in between depending on the schedule for the day, usually doing physical activity like the gym.
+Split shift style. I am usually operational at my desk between 8:30 am and 10 pm on weekdays, and 12 - 6 on weekends. On week days, I take a break (usually 1.5 - 2 hours) in between depending on the schedule for the day, usually doing physical activity like the gym - this physical activity is very important for me especially if I'm doing long hours. As I always say, it's a marathon not a sprint!
 
 ### What my average week looks like
 
 - On Monday, set the tone for the week, set priorities and outcomes with the team
 - Daily standups as needed (async or sync)
 - On Friday's review the week with the team and set the tone and objectives for the following week.
-
-### References
