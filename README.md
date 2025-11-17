@@ -69,7 +69,7 @@ On being a typical Vancouverite, we love the rain (well, most folks don’t), bu
   
 ### How to know when I'm (really) grumpy
 
-I'm pretty good at masking it to be honest. But I'm generally a calm, collected person so please feel you have the psycholigical safety to ask if there's doubt about my grumpiness. 
+I'm pretty good at masking it to be honest. But I'm generally a calm, collected person so please feel you have the psychological safety to ask if there's doubt about my grumpiness. 
 
 ### What have my past managers done that I like
 
