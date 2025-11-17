@@ -40,6 +40,7 @@ On being a typical Vancouverite, we love the rain (well, most folks don’t), bu
 - Growth mindset. Nobody's ever perfect. The important thing to accept it and don't overlook opportunities to improve.
 - Integrity. Trust is everything. If the underlying assumption is X person has integrity, it makes everything else easier for both parties.
 - Asynchronous work & traceability. I have generally been on remote teams, so I really appreciate it when my team-mates keep a written trace of notes and decisions that may have been taken in my absence.
+- Fun Dev memes. It makes the day to day work more fun for the team!
 
 ### What I think are my strengths
 
@@ -61,14 +62,14 @@ On being a typical Vancouverite, we love the rain (well, most folks don’t), bu
 
 ### What makes me grumpy
 
+- When someone undermines psychological safety for the team.
 - Witnessing injustice and incivilities. When people are not acting in a fair way.
-- When people are disrespectful towards me or anyone else.
+- When people are not being respectful towards me or anyone else.
 - Doing work without understanding the why.
-- Lack of order and consistency, especially when I have to get my hands dirty. (e.g. contribute to a codebase that I find hard to understand)
-
+  
 ### How to know when I'm (really) grumpy
 
-I'm pretty good at masking it to be honest. But I'm generally a calm, collected person so please feel you have the psycholigical safety to ask if doubt about my grumpiness.
+I'm pretty good at masking it to be honest. But I'm generally a calm, collected person so please feel you have the psycholigical safety to ask if there's doubt about my grumpiness. 
 
 ### What have my past managers done that I like
 
