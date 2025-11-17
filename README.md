@@ -17,7 +17,7 @@ Feel free to read more at my [portfolio site here](https://vesharma.dev).
 
 Outside of work I love to spend my time doing physical activities especially outdoors. You can catch me climbing a rock face in Squamish BC, or doing a HIIT workout class. I suppose this makes me a typical Vancouverite!
 
-On being a typical Vancouverite, we love the rain (well, most folks don’t), but as part of my personal and professional ethos, I’m a big believer in learning to dance in the rain - metaphorically speaking. I’m an optimist at heart and it’s probably how I’ve gotten through the 0-1 phase startup pain 🙂. I always try to find the opportunity in any challenge and the best in people.
+On being a typical Vancouverite, we love the rain (well, most folks don’t), but as part of my personal and professional ethos, `I’m a big believer in learning to dance in the rain` - metaphorically speaking. **I’m an optimist at heart ** and it’s probably how I’ve gotten through the 0-1 phase startup pain 🙂. I always try to find the opportunity in any challenge and the best in people.
 
 ### Random facts
 
@@ -25,7 +25,7 @@ On being a typical Vancouverite, we love the rain (well, most folks don’t), bu
 - I'm a dancing in the rain kind of person (metaphorically speaking)
 - I love to rock climb outdoors (my 2 favorite spots are in Squamish BC and The Feathers in Washington state) 💙
 - Favorite video game 🎮 franchieses of all time are Halo, Mass Effect, and Battlefield
-- My Myers Briggs personality type is ENFP (The campaigner) which is "a personality type with the Extraverted, Intuitive, Feeling, and Prospecting traits. These people tend to embrace big ideas and actions.
+- My Myers Briggs personality type is `ENFP` (The campaigner) which is "a personality type with the Extraverted, Intuitive, Feeling, and Prospecting traits. These people tend to embrace big ideas and actions.
   " according to 16personalities.com
 
 ### What are my favorite things to work on
@@ -36,23 +36,23 @@ On being a typical Vancouverite, we love the rain (well, most folks don’t), bu
 
 ### What I value from others
 
-- Psychological safety. This is the bed rock for any high performing and creates an inclusive, safe space for all. The best work I've seen comes from this bedrock.
-- Growth mindset. Nobody's ever perfect. The important thing to accept it and don't overlook opportunities to improve.
-- Integrity. Trust is everything. If the underlying assumption is X person has integrity, it makes everything else easier for both parties.
-- Asynchronous work & traceability. I have generally been on remote teams, so I really appreciate it when my team-mates keep a written trace of notes and decisions that may have been taken in my absence.
-- Fun Dev memes. It makes the day to day work more fun for the team!
+- `Psychological safety.` This is the bed rock for any high performing and creates an inclusive, safe space for all. The best work I've seen comes from this bedrock.
+- `Growth mindset.` Nobody's ever perfect. The important thing to accept it and don't overlook opportunities to improve.
+- `Integrity.` Trust is everything. If the underlying assumption is X person has integrity, it makes everything else easier for both parties.
+- `Asynchronous work & traceability.` I have generally been on remote teams, so I really appreciate it when my team-mates keep a written trace of notes and decisions that may have been taken in my absence.
+- `Fun Dev memes.` It makes the day to day work more fun for the team!
 
 ### What I think are my strengths
 
-- Resourcefulness. I can stretch a budget really far or do a project with minimal resources. Partly why I think I became a founder.
-- Accountability. If I say that I'm going to do something, I will deliver. I hate to lie, to disappoint, and I'm not afraid to be transparent
-- Resilience. Definitely my superpower. I can take a lot of hits and keeping getting back up.
+- `Resourcefulness.` I can stretch a budget really far or do a project with minimal resources. Partly why I think I became a founder.
+- `Accountability.` If I say that I'm going to do something, I will deliver. I hate to lie, to disappoint, and I'm not afraid to be transparent
+- `Resilience.` Definitely my superpower. I can take a lot of hits and keeping getting back up.
 
 ### Things I'm working to improve
 
-- Leadership. I am always learning to improve this muscle and how to best delegate to others. I've learned how to lean into my servant leadership style to most benefit my team.
-- Conflict management. I can feel uncomfortable when conflicts happen. What I've learned is that the only thing you can control in life is yourself and not others. How you respond (not react) is everything.
-- Boundary setting. I'm working to be more efficient and intentional with my time. I can take on too much and come at the expense of me or the team (as a manager). This is an improving area however and have learned how to lean more on my tech leads or seniors more.
+- `Leadership.` I am always learning to improve this muscle and how to best delegate to others. I've learned how to lean into my servant leadership style to most benefit my team.
+- `Conflict management.` I can feel uncomfortable when conflicts happen. What I've learned is that the only thing you can control in life is yourself and not others. How you respond (not react) is everything.
+- `Boundary setting.` I'm working to be more efficient and intentional with my time. I can take on too much and come at the expense of me or the team (as a manager). This is an improving area however and have learned how to lean more on my tech leads or seniors more.
 
 ### What makes me uncomfortable
 
@@ -73,10 +73,10 @@ I'm pretty good at masking it to be honest. But I'm generally a calm, collected 
 
 ### What have my past managers done that I like
 
-- Defend the interests of the team.
-- Congratulate successes and efforts, and provide honest feedback to help team-mates improve.
-- Take the time to share useful tips and provide coaching when appropriate.
-- Not be afraid to roll up their sleeves and help out when times are tough.
+- _Defend the interests of the team._
+-_ Congratulate successes and efforts,_ and provide honest feedback to help team-mates improve.
+- Take the time to share useful tips and provide **coaching** when appropriate.
+- _Not be afraid to roll up their sleeves_ and help out when times are tough.
 
 ### What I do outside of work
 
@@ -89,7 +89,7 @@ I'm pretty good at masking it to be honest. But I'm generally a calm, collected 
 
 - Potentially do another startup
 - Work on techno policy for the governement - combining my computer science and political science background.
-- Visit China my accestral homeland.
+- Visit China 🇨🇳 my accestral homeland.
 
 ### How to communicate with me
 
@@ -104,7 +104,8 @@ I'm pretty good at masking it to be honest. But I'm generally a calm, collected 
 
 ### Working Hours
 
-Split shift style. I am usually operational at my desk between 8:30 am and 10 pm on weekdays, and 12 - 6 on weekends. On week days, I take a break (usually 1.5 - 2 hours) in between depending on the schedule for the day, usually doing physical activity like the gym - this physical activity is very important for me especially if I'm doing long hours. As I always say, it's a marathon not a sprint!
+Split shift style. I am usually operational at my desk between 8:30 am and 10 pm on weekdays, and 12 - 6 on weekends. On week days, I take a break (usually 1.5 - 2 hours) in between depending on the schedule for the day, usually** doing physical activity like the gym - this physical activity is very important for me especially if I'm doing long hours. As I always say, it's a marathon not a sprint!
+**
 
 ### What my average week looks like
 
